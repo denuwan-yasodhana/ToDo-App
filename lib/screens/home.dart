@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
                       Container(
                         margin: EdgeInsets.only(top: 50, bottom: 20),
                         child: Text(
-                          'All TODOs',
+                          'Today Tasks',
                           style: TextStyle(
                               fontSize: 30, fontWeight: FontWeight.w500),
                         ),
