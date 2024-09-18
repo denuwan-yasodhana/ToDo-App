@@ -1,4 +1,4 @@
-# 📋 To-DoPro
+# 📋 To-DoPro App
 
 ## 🔍 Overview
 This app is designed to help users efficiently manage their tasks. Users can add tasks, mark them as completed, and search for specific tasks. It is a simple, user-friendly to-do list that aims to improve productivity.
