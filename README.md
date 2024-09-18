@@ -10,7 +10,7 @@ This app is designed to help users efficiently manage their tasks. Users can add
 
 ## 💻 Technologies Used
 - **Programming Languages**: Dart
-- **Frameworks/Libraries**: Flutter
+- **Frameworks**: Flutter
 
 ## 📸 Screenshots
 ![Screenshot 2024-09-18 142836](https://github.com/user-attachments/assets/8aa55ad4-8d26-4eee-8a7d-9c64be15e216)
