@@ -15,7 +15,6 @@ This app is designed to help users efficiently manage their tasks. Users can add
 ## 📸 Screenshots
 ![Screenshot 2024-09-18 142836](https://github.com/user-attachments/assets/8aa55ad4-8d26-4eee-8a7d-9c64be15e216)
 ![Screenshot 2024-09-18 142858](https://github.com/user-attachments/assets/515f59d7-c973-4411-9dfa-de5047a3ed0e)
-![Screenshot 2024-09-18 142949](https://github.com/user-attachments/assets/3f439b2d-57cd-42ab-9bc8-73c48fb2a906)
 
 ## 🛠️ Installation
 
